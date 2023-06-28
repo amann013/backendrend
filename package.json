@@ -1,7 +1,9 @@
 {
   "name": "library_management",
   "version": "1.0.0",
-  "engines" : {"node" :"14.0.0"},
+  "engines": {
+    "node": "14.0.0"
+  },
   "description": "Library Management Website using MERN stack",
   "main": "server.js",
   "scripts": {
